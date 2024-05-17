@@ -4,6 +4,7 @@ function setup() {
 
 function draw() {
   background(220);
-  text("Davi", 138, 184);
+  
+  text("DAVI", 138, 184);
   fill(color (199, 94,195));
 }
